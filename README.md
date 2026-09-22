@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Ad Revenue by Age Bucket](./practice/sql/ad-revenue-by-age-bucket) | SQL | Medium | 2026-05-28 |
 | [Above Category Average](./practice/sql/above-category-average) | SQL | Easy | 2026-05-28 |
 | [The Character Clans](./practice/python/the-character-clans) | Python | Medium | 2026-05-26 |
 | [The Odd Extractor](./practice/python/the-odd-extractor) | Python | Easy | 2026-05-26 |
