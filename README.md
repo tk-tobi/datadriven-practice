@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Who's Holding Up Traffic](./practice/sql/who-s-holding-up-traffic) | SQL | Medium | 2026-08-13 |
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-08-13 |
 | [Back From the Brink](./practice/sql/back-from-the-brink) | SQL | Hard | 2026-08-12 |
 | [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-08-11 |
