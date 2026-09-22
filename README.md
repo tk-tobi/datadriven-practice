@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Find Mode](./practice/python/find-mode) | Python | Medium | 2026-06-09 |
 | [Above Average](./practice/sql/above-average) | SQL | Easy | 2026-06-09 |
 | [Average Sessions Per User](./practice/sql/average-sessions-per-user) | SQL | Hard | 2026-06-09 |
 | [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-06-09 |
