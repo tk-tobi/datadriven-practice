@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Idle Team Members](./practice/sql/idle-team-members) | SQL | Easy | 2026-07-19 |
 | [Where The Rows Go](./practice/sql/where-the-rows-go) | SQL | Easy | 2026-07-19 |
 | [Top Recent Sellers](./practice/sql/top-recent-sellers) | SQL | Easy | 2026-07-19 |
 | [Cheapest CDN Route](./practice/sql/cheapest-cdn-route) | SQL | Easy | 2026-07-19 |
