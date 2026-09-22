@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Extreme Category Totals](./practice/sql/extreme-category-totals) | SQL | Medium | 2026-07-18 |
 | [Spending Velocity](./practice/sql/spending-velocity) | SQL | Medium | 2026-07-17 |
 | [Ghost Products](./practice/sql/ghost-products) | SQL | Medium | 2026-07-17 |
 | [Both Ends of the Pipe](./practice/sql/both-ends-of-the-pipe) | SQL | Medium | 2026-07-17 |
