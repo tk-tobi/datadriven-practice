@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Twice Over](./practice/sql/twice-over) | SQL | Medium | 2026-09-01 |
 | [The Well-Defended Borders](./practice/sql/the-well-defended-borders) | SQL | Easy | 2026-08-25 |
 | [Early 2026 Data Pipelines](./practice/sql/early-year-data-pipelines) | SQL | Easy | 2026-08-25 |
 | [What Won't Convert](./practice/python/what-won-t-convert) | Python | Easy | 2026-08-25 |
