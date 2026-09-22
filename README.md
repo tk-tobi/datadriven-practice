@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Upper Rungs](./practice/sql/the-upper-rungs) | SQL | Easy | 2026-07-31 |
 | [Largest Group](./practice/sql/largest-group) | SQL | Easy | 2026-07-31 |
 | [Campaign Conversion Window](./practice/sql/campaign-conversion-window) | SQL | Hard | 2026-07-31 |
 | [Then and Now](./practice/sql/then-and-now) | SQL | Hard | 2026-07-30 |
