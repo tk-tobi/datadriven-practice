@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Row Count Surprise](./practice/sql/the-row-count-surprise) | SQL | Easy | 2026-06-15 |
 | [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-06-15 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-06-15 |
 | [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-06-15 |
