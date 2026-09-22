@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Switchboard](./practice/sql/the-switchboard) | SQL | Medium | 2026-08-10 |
 | [Rolling Revenue Average](./practice/sql/rolling-revenue-average) | SQL | Hard | 2026-08-10 |
 | [Tipping Points](./practice/sql/tipping-points) | SQL | Hard | 2026-08-10 |
 | [Running Tab](./practice/sql/running-tab) | SQL | Medium | 2026-08-10 |
