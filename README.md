@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Notification That Paid Off](./practice/sql/the-notification-that-paid-off) | SQL | Hard | 2026-07-22 |
 | [Service Uptime Minutes](./practice/sql/service-uptime-minutes) | SQL | Medium | 2026-07-22 |
 | [The Full Picture](./practice/sql/the-full-picture) | SQL | Easy | 2026-07-22 |
 | [Heavy Ad Exposure](./practice/sql/heavy-ad-exposure) | SQL | Medium | 2026-07-21 |
