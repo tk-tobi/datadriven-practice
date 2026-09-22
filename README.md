@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Calendar Sort](./practice/python/the-calendar-sort) | Python | Easy | 2026-05-25 |
 | [Second Fiddle](./practice/sql/second-fiddle) | SQL | Hard | 2026-05-19 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-05-19 |
 
