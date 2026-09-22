@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Schema Checker](./practice/python/schema-checker) | Python | Easy | 2026-08-25 |
 | [Transaction Source Features](./practice/sql/transaction-source-features) | SQL | Easy | 2026-08-25 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-08-25 |
 | [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-08-25 |
