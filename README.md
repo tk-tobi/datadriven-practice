@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Event Bucketer](./practice/python/the-event-bucketer) | Python | Easy | 2026-06-20 |
 | [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-06-20 |
 | [The Long Run](./practice/python/the-long-run) | Python | Easy | 2026-06-19 |
 | [Who Stayed](./practice/sql/who-stayed) | SQL | Hard | 2026-06-18 |
