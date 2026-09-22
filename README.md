@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Ghost Products](./practice/sql/ghost-products) | SQL | Medium | 2026-07-17 |
 | [Both Ends of the Pipe](./practice/sql/both-ends-of-the-pipe) | SQL | Medium | 2026-07-17 |
 | [The Budget Line](./practice/sql/the-budget-line) | SQL | Easy | 2026-07-17 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-07-17 |
