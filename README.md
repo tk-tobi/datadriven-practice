@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top 2 Active Push Days](./practice/sql/top-2-active-push-days) | SQL | Medium | 2026-08-14 |
 | [Second Highest Value](./practice/sql/second-highest-value) | SQL | Easy | 2026-08-14 |
 | [Who Came First](./practice/python/who-came-first) | Python | Easy | 2026-08-14 |
 | [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-08-14 |
