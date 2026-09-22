@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Gap Between Neighbors](./practice/sql/the-gap-between-neighbors) | SQL | Hard | 2026-09-01 |
 | [Max Value Per Location](./practice/sql/max-value-per-location) | SQL | Easy | 2026-09-01 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-09-01 |
 | [What's in a Name](./practice/sql/what-s-in-a-name) | SQL | Easy | 2026-09-01 |
