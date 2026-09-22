@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Uptime Minutes](./practice/sql/service-uptime-minutes) | SQL | Medium | 2026-07-22 |
 | [The Full Picture](./practice/sql/the-full-picture) | SQL | Easy | 2026-07-22 |
 | [Heavy Ad Exposure](./practice/sql/heavy-ad-exposure) | SQL | Medium | 2026-07-21 |
 | [Age of Discovery](./practice/sql/age-of-discovery) | SQL | Hard | 2026-07-20 |
