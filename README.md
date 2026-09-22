@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Mirror Test](./practice/python/the-mirror-test) | Python | Easy | 2026-08-07 |
 | [The Merge](./practice/python/the-merge) | Python | Easy | 2026-08-07 |
 | [The List Merger](./practice/python/the-list-merger) | Python | Easy | 2026-08-07 |
 | [The Code Expander](./practice/python/the-code-expander) | Python | Easy | 2026-08-07 |
