@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-06-12 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-06-12 |
 | [Annual Cloud Spend](./practice/sql/annual-cloud-spend) | SQL | Easy | 2026-06-12 |
 | [Turned Away](./practice/sql/turned-away) | SQL | Medium | 2026-06-12 |
