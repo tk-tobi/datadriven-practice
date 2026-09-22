@@ -4,15 +4,9 @@
 
 [SQL · Hard · on DataDriven](https://datadriven.io/problems/average_sessions_per_user)
 
-## How it went
-
 | | |
 |---|---|
 | Solved | 2026-06-09 |
-| Accepted | on the first submission |
-| Time | 4 min |
-| Hints | none |
-| Query complexity | O(n), optimal |
-| Concepts | Counting, Grouping, Query Basics, Scalar Subquery, Sums & Averages |
+| Query complexity | O(n) |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
