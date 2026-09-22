@@ -4,15 +4,9 @@
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/no_gaps)
 
-## How it went
-
 | | |
 |---|---|
 | Solved | 2026-06-10 |
-| Accepted | on the first submission |
-| Time | 4 min |
-| Hints | none |
-| Query complexity | O(n), optimal |
-| Concepts | Null Defaulting, Query Basics, Filtering |
+| Query complexity | O(n) |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
