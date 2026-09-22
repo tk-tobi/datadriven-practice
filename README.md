@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Against the Clock](./practice/sql/against-the-clock) | SQL | Easy | 2026-07-04 |
 | [The Unbroken Line](./practice/python/the-unbroken-line) | Python | Medium | 2026-07-04 |
 | [Time Served](./practice/sql/time-served) | SQL | Hard | 2026-07-04 |
 | [Provider Cost Change H1](./practice/sql/provider-cost-change-h1) | SQL | Easy | 2026-07-04 |
