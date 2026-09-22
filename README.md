@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Character Clans](./practice/python/the-character-clans) | Python | Medium | 2026-05-26 |
 | [The Odd Extractor](./practice/python/the-odd-extractor) | Python | Easy | 2026-05-26 |
 | [Peak Concurrent Batch Jobs](./practice/sql/peak-concurrent-batch-jobs) | SQL | Medium | 2026-05-25 |
 | [The Calendar Sort](./practice/python/the-calendar-sort) | Python | Easy | 2026-05-25 |
