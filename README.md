@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Double Vision](./practice/sql/double-vision) | SQL | Easy | 2026-07-04 |
 | [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-07-04 |
 | [Against the Clock](./practice/sql/against-the-clock) | SQL | Easy | 2026-07-04 |
 | [The Unbroken Line](./practice/python/the-unbroken-line) | Python | Medium | 2026-07-04 |
