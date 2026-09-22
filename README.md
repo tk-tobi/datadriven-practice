@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Time Served](./practice/sql/time-served) | SQL | Hard | 2026-07-04 |
 | [Provider Cost Change H1](./practice/sql/provider-cost-change-h1) | SQL | Easy | 2026-07-04 |
 | [Activity Histogram](./practice/sql/activity-histogram) | SQL | Easy | 2026-07-04 |
 | [Where the Buck Stops](./practice/python/where-the-buck-stops) | Python | Hard | 2026-07-04 |
