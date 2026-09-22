@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where the Minutes Go](./practice/sql/where-the-minutes-go) | SQL | Hard | 2026-09-20 |
 | [Top Endpoint by Power Users](./practice/sql/top-endpoint-by-power-users) | SQL | Hard | 2026-09-20 |
 | [Past the Threshold](./practice/sql/past-the-threshold) | SQL | Medium | 2026-09-04 |
 | [The Generous Ones](./practice/python/the-generous-ones) | Python | Medium | 2026-09-01 |
