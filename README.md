@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Sessions Per User](./practice/sql/average-sessions-per-user) | SQL | Hard | 2026-06-09 |
 | [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-06-09 |
 | [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-06-09 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-06-09 |
