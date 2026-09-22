@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Standings](./practice/sql/the-standings) | SQL | Hard | 2026-07-23 |
 | [Team Cost Allocation Comparison](./practice/sql/team-cost-allocation-comparison) | SQL | Hard | 2026-07-23 |
 | [7-Day Onboarding Conversion](./practice/sql/7-day-onboarding-conversion) | SQL | Hard | 2026-07-22 |
 | [Active User Penetration Rate](./practice/sql/active-user-penetration-rate) | SQL | Hard | 2026-07-22 |
