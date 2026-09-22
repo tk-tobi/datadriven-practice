@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [First Arrivals](./practice/sql/first-arrivals) | SQL | Medium | 2026-07-16 |
 | [Cache Efficiency](./practice/sql/cache-efficiency) | SQL | Hard | 2026-07-16 |
 | [The Cloud Bill](./practice/sql/the-cloud-bill) | SQL | Medium | 2026-07-15 |
 | [Beyond the Signup](./practice/sql/beyond-the-signup) | SQL | Medium | 2026-07-15 |
