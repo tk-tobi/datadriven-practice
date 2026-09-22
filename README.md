@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Off Target](./practice/sql/off-target) | SQL | Medium | 2026-08-07 |
 | [The Long Tail](./practice/sql/the-long-tail) | SQL | Medium | 2026-08-07 |
 | [The Quiet Middle](./practice/sql/the-quiet-middle) | SQL | Easy | 2026-08-07 |
 | [Top 10 Batch Jobs](./practice/sql/top-10-batch-jobs) | SQL | Easy | 2026-08-07 |
