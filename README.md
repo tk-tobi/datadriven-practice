@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-08-11 |
 | [The Longest Take](./practice/sql/the-longest-take) | SQL | Easy | 2026-08-11 |
 | [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-08-11 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-08-11 |
