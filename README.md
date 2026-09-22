@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Big Spenders](./practice/sql/big-spenders) | SQL | Easy | 2026-06-12 |
 | [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-06-12 |
 | [Ghosts in the Campaign](./practice/sql/ghosts-in-the-campaign) | SQL | Easy | 2026-06-10 |
 | [Roll Call](./practice/sql/roll-call) | SQL | Easy | 2026-06-10 |
