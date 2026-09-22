@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Generous Ones](./practice/python/the-generous-ones) | Python | Medium | 2026-09-01 |
 | [Rename Keys](./practice/python/rename-keys) | Python | Medium | 2026-09-01 |
 | [The Gap Between Neighbors](./practice/sql/the-gap-between-neighbors) | SQL | Hard | 2026-09-01 |
 | [Max Value Per Location](./practice/sql/max-value-per-location) | SQL | Easy | 2026-09-01 |
