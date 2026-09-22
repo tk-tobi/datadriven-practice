@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [No Vacancy](./practice/python/no-vacancy) | Python | Hard | 2026-06-27 |
 | [Back to Back](./practice/python/back-to-back) | Python | Medium | 2026-06-27 |
 | [The Throttle Wall](./practice/python/the-throttle-wall) | Python | Hard | 2026-06-27 |
 | [The Dependency Resolver](./practice/python/the-dependency-resolver) | Python | Medium | 2026-06-26 |
