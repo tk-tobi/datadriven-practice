@@ -4,15 +4,9 @@
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/category_sales_summary)
 
-## How it went
-
 | | |
 |---|---|
 | Solved | 2026-06-23 |
-| Accepted | on the first submission |
-| Time | 6 min |
-| Hints | none |
-| Query complexity | O(n log n), optimal |
-| Concepts | Counting, Distinct Counting, Deduplication, Grouping, Inner Joins, Sorting Results, Query Basics, Sums & Averages, Filtering |
+| Query complexity | O(n log n) |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
