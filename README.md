@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Same First and Last Reply Target](./practice/sql/same-first-and-last-reply-target) | SQL | Medium | 2026-07-20 |
 | [App Stability by Region](./practice/sql/app-stability-by-region) | SQL | Medium | 2026-07-20 |
 | [Honeymoon Phase](./practice/sql/honeymoon-phase) | SQL | Medium | 2026-07-20 |
 | [The Fault Lines](./practice/sql/the-fault-lines) | SQL | Medium | 2026-07-20 |
