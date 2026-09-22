@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Under the Same Name](./practice/sql/under-the-same-name) | SQL | Easy | 2026-08-07 |
 | [Metric Trend by Department](./practice/sql/metric-trend-by-department) | SQL | Easy | 2026-08-07 |
 | [Welcome Wagon](./practice/sql/welcome-wagon) | SQL | Easy | 2026-08-07 |
 | [Average Build Duration by Repo](./practice/sql/average-build-duration-by-repo) | SQL | Easy | 2026-08-07 |
