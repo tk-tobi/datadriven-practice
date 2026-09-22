@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Alert Severity](./practice/sql/alert-severity) | SQL | Hard | 2026-07-30 |
 | [Cost Efficiency Variance](./practice/sql/cost-efficiency-variance) | SQL | Hard | 2026-07-28 |
 | [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-07-27 |
 | [Tiers of Want](./practice/sql/tiers-of-want) | SQL | Hard | 2026-07-25 |
