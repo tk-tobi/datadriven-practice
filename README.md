@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-07-15 |
 | [Retried Failed API Calls](./practice/sql/retried-failed-api-calls) | SQL | Medium | 2026-07-12 |
 | [Spending by Account Status](./practice/sql/spending-by-account-status) | SQL | Medium | 2026-07-04 |
 | [Double Vision](./practice/sql/double-vision) | SQL | Easy | 2026-07-04 |
