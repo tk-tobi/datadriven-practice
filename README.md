@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Overlap](./practice/python/the-overlap) | Python | Hard | 2026-08-06 |
 | [The Crowded Hour](./practice/sql/the-crowded-hour) | SQL | Easy | 2026-08-03 |
 | [The Upper Rungs](./practice/sql/the-upper-rungs) | SQL | Easy | 2026-07-31 |
 | [Largest Group](./practice/sql/largest-group) | SQL | Easy | 2026-07-31 |
