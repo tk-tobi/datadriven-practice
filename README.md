@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Roads In](./practice/sql/the-roads-in) | SQL | Easy | 2026-08-06 |
 | [Double or Nothing](./practice/sql/double-or-nothing) | SQL | Hard | 2026-08-06 |
 | [The Overlap](./practice/python/the-overlap) | Python | Hard | 2026-08-06 |
 | [The Crowded Hour](./practice/sql/the-crowded-hour) | SQL | Easy | 2026-08-03 |
