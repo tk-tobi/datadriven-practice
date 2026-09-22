@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Roll Call](./practice/sql/roll-call) | SQL | Easy | 2026-06-10 |
 | [No Gaps](./practice/sql/no-gaps) | SQL | Easy | 2026-06-10 |
 | [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-06-10 |
 | [All Told](./practice/python/all-told) | Python | Easy | 2026-06-09 |
