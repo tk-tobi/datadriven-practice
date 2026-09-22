@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Char Profile](./practice/python/char-profile) | Python | Medium | 2026-06-08 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-06-08 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-06-08 |
 | [Average Node CPU by Region](./practice/sql/average-node-cpu-by-region) | SQL | Easy | 2026-05-28 |
