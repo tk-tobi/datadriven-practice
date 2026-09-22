@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Long Way Back](./practice/sql/the-long-way-back) | SQL | Hard | 2026-08-23 |
 | [Three That Hold](./practice/python/three-that-hold) | Python | Medium | 2026-08-19 |
 | [The Lone Character](./practice/python/the-lone-character) | Python | Easy | 2026-08-19 |
 | [The Version Parade](./practice/python/the-version-parade) | Python | Easy | 2026-08-19 |
