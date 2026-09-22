@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Long Run](./practice/python/the-long-run) | Python | Easy | 2026-06-19 |
 | [Who Stayed](./practice/sql/who-stayed) | SQL | Hard | 2026-06-18 |
 | [The Freshest Record](./practice/sql/the-freshest-record) | SQL | Medium | 2026-06-18 |
 | [The Blind Spot](./practice/sql/the-blind-spot) | SQL | Medium | 2026-06-17 |
