@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Weekly Build Status Report](./practice/sql/weekly-build-status-report) | SQL | Hard | 2026-07-20 |
 | [Best Day for Ad Revenue](./practice/sql/best-day-for-ad-revenue) | SQL | Medium | 2026-07-20 |
 | [Two Sides of the Ledger](./practice/sql/two-sides-of-the-ledger) | SQL | Hard | 2026-07-20 |
 | [Same First and Last Reply Target](./practice/sql/same-first-and-last-reply-target) | SQL | Medium | 2026-07-20 |
