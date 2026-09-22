@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Hard | 2026-07-30 |
 | [First Interaction Credit](./practice/sql/first-interaction-credit) | SQL | Hard | 2026-07-30 |
 | [The Final Sale](./practice/sql/the-final-sale) | SQL | Medium | 2026-07-30 |
 | [Keep Most Recent Record](./practice/sql/keep-most-recent-record) | SQL | Medium | 2026-07-30 |
