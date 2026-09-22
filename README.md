@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Code Expander](./practice/python/the-code-expander) | Python | Easy | 2026-08-07 |
 | [Department Running Totals](./practice/sql/department-running-totals) | SQL | Medium | 2026-08-07 |
 | [Deploy Velocity Swings](./practice/sql/deploy-velocity-swings) | SQL | Medium | 2026-08-07 |
 | [Under the Same Name](./practice/sql/under-the-same-name) | SQL | Easy | 2026-08-07 |
