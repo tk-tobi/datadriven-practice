@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Servers Returning to Origin](./practice/sql/servers-returning-to-origin) | SQL | Medium | 2026-08-11 |
 | [Unmatched Categories](./practice/sql/unmatched-categories) | SQL | Easy | 2026-08-10 |
 | [The Switchboard](./practice/sql/the-switchboard) | SQL | Medium | 2026-08-10 |
 | [Rolling Revenue Average](./practice/sql/rolling-revenue-average) | SQL | Hard | 2026-08-10 |
