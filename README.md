@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-08-14 |
 | [By What They Answer To](./practice/python/by-what-they-answer-to) | Python | Medium | 2026-08-13 |
 | [Who's Holding Up Traffic](./practice/sql/who-s-holding-up-traffic) | SQL | Medium | 2026-08-13 |
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-08-13 |
