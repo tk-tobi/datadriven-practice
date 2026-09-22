@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Mirror Index](./practice/python/the-mirror-index) | Python | Easy | 2026-06-22 |
 | [The Listeners](./practice/python/the-listeners) | Python | Medium | 2026-06-20 |
 | [The Event Bucketer](./practice/python/the-event-bucketer) | Python | Easy | 2026-06-20 |
 | [The Forward Fill](./practice/python/the-forward-fill) | Python | Easy | 2026-06-20 |
