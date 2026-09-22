@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Category Sales Summary](./practice/sql/category-sales-summary) | SQL | Easy | 2026-06-23 |
 | [Category Census](./practice/sql/category-census) | SQL | Easy | 2026-06-23 |
 | [The Mirror Index](./practice/python/the-mirror-index) | Python | Easy | 2026-06-22 |
 | [The Listeners](./practice/python/the-listeners) | Python | Medium | 2026-06-20 |
