@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Indivisibles](./practice/python/the-indivisibles) | Python | Easy | 2026-08-15 |
 | [What's Left Standing](./practice/python/what-s-left-standing) | Python | Medium | 2026-08-15 |
 | [Top Identified Event Types](./practice/sql/top-identified-event-types) | SQL | Medium | 2026-08-14 |
 | [Top 2 Active Push Days](./practice/sql/top-2-active-push-days) | SQL | Medium | 2026-08-14 |
