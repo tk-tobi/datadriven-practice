@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-07-27 |
 | [Tiers of Want](./practice/sql/tiers-of-want) | SQL | Hard | 2026-07-25 |
 | [Top Average By Region](./practice/sql/top-average-by-region) | SQL | Easy | 2026-07-23 |
 | [Even the Silent Ones](./practice/sql/even-the-silent-ones) | SQL | Medium | 2026-07-23 |
