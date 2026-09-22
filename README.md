@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Runner-Up](./practice/python/the-runner-up) | Python | Easy | 2026-08-19 |
 | [The Shifting Standard](./practice/python/the-shifting-standard) | Python | Medium | 2026-08-19 |
 | [The Infection Spread](./practice/python/the-infection-spread) | Python | Hard | 2026-08-19 |
 | [Into One Stream](./practice/python/into-one-stream) | Python | Easy | 2026-08-19 |
