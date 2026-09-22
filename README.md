@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Ghosts in the Campaign](./practice/sql/ghosts-in-the-campaign) | SQL | Easy | 2026-06-10 |
 | [Roll Call](./practice/sql/roll-call) | SQL | Easy | 2026-06-10 |
 | [No Gaps](./practice/sql/no-gaps) | SQL | Easy | 2026-06-10 |
 | [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-06-10 |
