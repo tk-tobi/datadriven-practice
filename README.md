@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Budget Line](./practice/sql/the-budget-line) | SQL | Easy | 2026-07-17 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-07-17 |
 | [First Arrivals](./practice/sql/first-arrivals) | SQL | Medium | 2026-07-16 |
 | [Cache Efficiency](./practice/sql/cache-efficiency) | SQL | Hard | 2026-07-16 |
