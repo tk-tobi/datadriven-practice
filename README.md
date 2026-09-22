@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Dependency Resolver](./practice/python/the-dependency-resolver) | Python | Medium | 2026-06-26 |
 | [The Noise Floor](./practice/sql/the-noise-floor) | SQL | Medium | 2026-06-24 |
 | [Round and Round They Go](./practice/python/round-and-round-they-go) | Python | Medium | 2026-06-23 |
 | [Category Sales Summary](./practice/sql/category-sales-summary) | SQL | Easy | 2026-06-23 |
