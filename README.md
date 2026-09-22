@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-08-25 |
 | [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-08-25 |
 | [Recent Price Drops](./practice/sql/recent-price-drops) | SQL | Medium | 2026-08-23 |
 | [The Long Way Back](./practice/sql/the-long-way-back) | SQL | Hard | 2026-08-23 |
