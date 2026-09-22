@@ -4,15 +4,9 @@
 
 [SQL · Medium · on DataDriven](https://datadriven.io/problems/above_average_product_prices)
 
-## How it went
-
 | | |
 |---|---|
 | Solved | 2026-07-15 |
-| Accepted | on the 2nd submission |
-| Time | under a minute |
-| Hints | none |
-| Query complexity | O(n²), optimal |
-| Concepts | Grouping, Group Filtering, Min & Max, Query Basics, Self-Join, Scalar Subquery, Sums & Averages, Filtering |
+| Query complexity | O(n²) |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
