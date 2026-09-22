@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Last Known Good](./practice/python/the-last-known-good) | Python | Medium | 2026-08-25 |
 | [The Dominant Signal](./practice/python/the-dominant-signal) | Python | Easy | 2026-08-25 |
 | [The Apprentices Still in the Forge](./practice/sql/the-apprentices-still-in-the-forge) | SQL | Easy | 2026-08-25 |
 | [Parse Log Line](./practice/python/parse-log-line) | Python | Medium | 2026-08-25 |
