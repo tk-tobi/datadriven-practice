@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Auth Endpoint Callers](./practice/sql/auth-endpoint-callers) | SQL | Medium | 2026-05-28 |
 | [Annual Pipeline Failures](./practice/sql/annual-pipeline-failures) | SQL | Easy | 2026-05-28 |
 | [Alert Hotspots by Service and Severity](./practice/sql/alert-hotspots-by-service-and-severity) | SQL | Easy | 2026-05-28 |
 | [Ad Revenue by Age Bucket](./practice/sql/ad-revenue-by-age-bucket) | SQL | Medium | 2026-05-28 |
