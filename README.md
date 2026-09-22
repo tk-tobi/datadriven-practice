@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Node CPU by Region](./practice/sql/average-node-cpu-by-region) | SQL | Easy | 2026-05-28 |
 | [Where the Line Breaks](./practice/python/where-the-line-breaks) | Python | Easy | 2026-05-28 |
 | [Batch Records](./practice/python/batch-records) | Python | Medium | 2026-05-28 |
 | [Birds of a Feather](./practice/python/birds-of-a-feather) | Python | Medium | 2026-05-28 |
