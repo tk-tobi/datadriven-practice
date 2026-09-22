@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Roster](./practice/sql/the-roster) | SQL | Easy | 2026-07-23 |
 | [Market Share](./practice/sql/market-share) | SQL | Hard | 2026-07-23 |
 | [The Standings](./practice/sql/the-standings) | SQL | Hard | 2026-07-23 |
 | [Team Cost Allocation Comparison](./practice/sql/team-cost-allocation-comparison) | SQL | Hard | 2026-07-23 |
