@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-06-15 |
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-06-15 |
 | [The Rolling Peak](./practice/python/the-rolling-peak) | Python | Medium | 2026-06-14 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-06-12 |
