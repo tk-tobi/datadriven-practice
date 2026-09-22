@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [7-Day Onboarding Conversion](./practice/sql/7-day-onboarding-conversion) | SQL | Hard | 2026-07-22 |
 | [Active User Penetration Rate](./practice/sql/active-user-penetration-rate) | SQL | Hard | 2026-07-22 |
 | [The Notification That Paid Off](./practice/sql/the-notification-that-paid-off) | SQL | Hard | 2026-07-22 |
 | [Service Uptime Minutes](./practice/sql/service-uptime-minutes) | SQL | Medium | 2026-07-22 |
