@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Deploy Velocity](./practice/sql/deploy-velocity) | SQL | Hard | 2026-07-19 |
 | [The Company You Keep](./practice/sql/the-company-you-keep) | SQL | Medium | 2026-07-19 |
 | [Love and Loathing](./practice/sql/love-and-loathing) | SQL | Hard | 2026-07-19 |
 | [Chain of Command](./practice/sql/chain-of-command) | SQL | Hard | 2026-07-18 |
