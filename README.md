@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-06-09 |
 | [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-06-09 |
 | [The Runaway Leader](./practice/python/the-runaway-leader) | Python | Easy | 2026-06-08 |
 | [The Fallback Layer](./practice/python/the-fallback-layer) | Python | Easy | 2026-06-08 |
