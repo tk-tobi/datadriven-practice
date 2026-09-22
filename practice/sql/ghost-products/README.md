@@ -4,15 +4,9 @@
 
 [SQL · Medium · on DataDriven](https://datadriven.io/problems/ghost_products)
 
-## How it went
-
 | | |
 |---|---|
 | Solved | 2026-07-17 |
-| Accepted | on the first submission |
-| Time | 2 min |
-| Hints | none |
-| Query complexity | O(n²), the optimum is O(n log n) |
-| Concepts | Null Handling, Outer Joins, Query Basics, Filtering |
+| Query complexity | O(n²) (optimal O(n log n)) |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
