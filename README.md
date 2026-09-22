@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Into One Stream](./practice/python/into-one-stream) | Python | Easy | 2026-08-19 |
 | [Letters in the Noise](./practice/python/letters-in-the-noise) | Python | Easy | 2026-08-19 |
 | [The Shortlist](./practice/python/the-shortlist) | Python | Medium | 2026-08-15 |
 | [The Indivisibles](./practice/python/the-indivisibles) | Python | Easy | 2026-08-15 |
