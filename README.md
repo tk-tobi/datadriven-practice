@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Fault Lines](./practice/sql/the-fault-lines) | SQL | Medium | 2026-07-20 |
 | [Loaded Dice](./practice/sql/loaded-dice) | SQL | Hard | 2026-07-20 |
 | [Smooth Latency](./practice/sql/smooth-latency) | SQL | Medium | 2026-07-19 |
 | [The Path Not Taken](./practice/sql/the-path-not-taken) | SQL | Hard | 2026-07-19 |
