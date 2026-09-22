@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Birds of a Feather](./practice/python/birds-of-a-feather) | Python | Medium | 2026-05-28 |
 | [The Ones That Count](./practice/python/the-ones-that-count) | Python | Easy | 2026-05-28 |
 | [Auth Endpoint Callers](./practice/sql/auth-endpoint-callers) | SQL | Medium | 2026-05-28 |
 | [Annual Pipeline Failures](./practice/sql/annual-pipeline-failures) | SQL | Easy | 2026-05-28 |
