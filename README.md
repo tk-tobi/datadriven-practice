@@ -1,2 +1,19 @@
-# datadriven-practice
-Scored data engineering practice from datadriven.io
+# sweet_eagle_4177's data engineering practice
+
+Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+
+<!-- datadriven:index:start -->
+
+## The Weekly
+
+A hidden stream of a million raw records, one handler, graded blind at the freeze.
+
+| Week | Score | Rank | |
+|---|---:|---|---|
+| [Week 1: The Handoff](./weekly/week-01-the-handoff) | 0.8154 | #4 of 11 | [brief](https://datadriven.io/community/week-1) |
+
+<!-- datadriven:index:end -->
+
+---
+
+Synced by [DataDriven](https://datadriven.io). Solve a problem there and it lands here.
