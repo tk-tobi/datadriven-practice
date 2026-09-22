@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Back From the Brink](./practice/sql/back-from-the-brink) | SQL | Hard | 2026-08-12 |
 | [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-08-11 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-08-11 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-08-11 |
