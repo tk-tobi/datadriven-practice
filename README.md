@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Vote Tally](./practice/sql/the-vote-tally) | SQL | Hard | 2026-08-07 |
 | [Average API Latency by Year](./practice/sql/average-api-latency-by-year) | SQL | Medium | 2026-08-07 |
 | [Ad Revenue 2026](./practice/sql/ad-revenue-year) | SQL | Easy | 2026-08-07 |
 | [Going Once](./practice/sql/going-once) | SQL | Medium | 2026-08-07 |
