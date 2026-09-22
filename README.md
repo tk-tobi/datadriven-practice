@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Validate Email](./practice/python/validate-email) | Python | Medium | 2026-08-19 |
 | [Precision and Recall](./practice/python/precision-and-recall) | Python | Medium | 2026-08-19 |
 | [The Rotated Array](./practice/python/the-rotated-array) | Python | Medium | 2026-08-19 |
 | [The Never-Ending Sequence](./practice/python/the-never-ending-sequence) | Python | Easy | 2026-08-19 |
