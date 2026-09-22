@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Build Success Rate by Trigger](./practice/sql/build-success-rate-by-trigger) | SQL | Medium | 2026-07-03 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-07-03 |
 | [The Seventh Day](./practice/sql/the-seventh-day) | SQL | Medium | 2026-07-03 |
 | [First Light](./practice/sql/first-light) | SQL | Medium | 2026-06-28 |
