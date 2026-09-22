@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Nth Highest Salary Per Department](./practice/sql/nth-highest-salary-per-department) | SQL | Medium | 2026-07-30 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-07-30 |
 | [Alert Severity](./practice/sql/alert-severity) | SQL | Hard | 2026-07-30 |
 | [Cost Efficiency Variance](./practice/sql/cost-efficiency-variance) | SQL | Hard | 2026-07-28 |
