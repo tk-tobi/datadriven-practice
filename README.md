@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Heavy Ad Exposure](./practice/sql/heavy-ad-exposure) | SQL | Medium | 2026-07-21 |
 | [Age of Discovery](./practice/sql/age-of-discovery) | SQL | Hard | 2026-07-20 |
 | [Weekly Build Status Report](./practice/sql/weekly-build-status-report) | SQL | Hard | 2026-07-20 |
 | [Best Day for Ad Revenue](./practice/sql/best-day-for-ad-revenue) | SQL | Medium | 2026-07-20 |
