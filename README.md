@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-08-11 |
 | [Top 2 Busiest API Slots](./practice/sql/top-2-busiest-api-slots) | SQL | Medium | 2026-08-11 |
 | [Servers Returning to Origin](./practice/sql/servers-returning-to-origin) | SQL | Medium | 2026-08-11 |
 | [Unmatched Categories](./practice/sql/unmatched-categories) | SQL | Easy | 2026-08-10 |
