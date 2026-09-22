@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Annual Cloud Spend](./practice/sql/annual-cloud-spend) | SQL | Easy | 2026-06-12 |
 | [Turned Away](./practice/sql/turned-away) | SQL | Medium | 2026-06-12 |
 | [Campaigns With Most Clicks](./practice/sql/campaigns-with-most-clicks) | SQL | Medium | 2026-06-12 |
 | [Builds per Author per Branch](./practice/sql/builds-per-author-per-branch) | SQL | Medium | 2026-06-12 |
