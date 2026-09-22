@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Smooth Latency](./practice/sql/smooth-latency) | SQL | Medium | 2026-07-19 |
 | [The Path Not Taken](./practice/sql/the-path-not-taken) | SQL | Hard | 2026-07-19 |
 | [Spend and Rank](./practice/sql/spend-and-rank) | SQL | Hard | 2026-07-19 |
 | [Idle Team Members](./practice/sql/idle-team-members) | SQL | Easy | 2026-07-19 |
