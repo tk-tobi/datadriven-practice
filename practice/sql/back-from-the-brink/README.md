@@ -4,15 +4,9 @@
 
 [SQL · Hard · on DataDriven](https://datadriven.io/problems/back_from_the_brink)
 
-## How it went
-
 | | |
 |---|---|
 | Solved | 2026-08-12 |
-| Accepted | on the first submission |
-| Time | 10 min |
-| Hints | none |
-| Query complexity | O(n log n), optimal |
-| Concepts | Counting, Distinct Counting, Common Table Expressions, Date vs Timestamp, Deduplication, Row Offsets, Case Conversion, Sorting Results, Window Partitioning, Query Basics, Storage Optimization, Scalar Subquery, Timestamp Types, Filtering |
+| Query complexity | O(n log n) |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
