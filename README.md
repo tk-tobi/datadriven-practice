@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Apprentices Still in the Forge](./practice/sql/the-apprentices-still-in-the-forge) | SQL | Easy | 2026-08-25 |
 | [Parse Log Line](./practice/python/parse-log-line) | Python | Medium | 2026-08-25 |
 | [Heavy Namespaces](./practice/sql/heavy-namespaces) | SQL | Medium | 2026-08-25 |
 | [Memory-Heavy Pods](./practice/sql/memory-heavy-pods) | SQL | Easy | 2026-08-25 |
