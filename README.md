@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Campaign Conversion Window](./practice/sql/campaign-conversion-window) | SQL | Hard | 2026-07-31 |
 | [Then and Now](./practice/sql/then-and-now) | SQL | Hard | 2026-07-30 |
 | [Below the Peaks](./practice/sql/below-the-peaks) | SQL | Hard | 2026-07-30 |
 | [Top Campaign by User Revenue](./practice/sql/top-campaign-by-user-revenue) | SQL | Medium | 2026-07-30 |
