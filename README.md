@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Running Tab](./practice/sql/running-tab) | SQL | Medium | 2026-08-10 |
 | [The Widest Net](./practice/sql/the-widest-net) | SQL | Medium | 2026-08-10 |
 | [The Gate Keeper](./practice/python/the-gate-keeper) | Python | Easy | 2026-08-09 |
 | [Closing Time](./practice/python/closing-time) | Python | Easy | 2026-08-09 |
