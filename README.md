@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-09-24 |
 | [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-09-23 |
 | [The Weight of Words](./practice/sql/the-weight-of-words) | SQL | Easy | 2026-09-21 |
 | [Consecutive Cost Growth Periods](./practice/sql/consecutive-cost-growth-periods) | SQL | Hard | 2026-09-21 |
