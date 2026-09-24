@@ -2,7 +2,7 @@
 
 *Say it once, then say how many times it kept saying it.*
 
-[Python · Easy · on DataDriven](https://datadriven.io/problems/the_long_run)
+[Python · Medium · on DataDriven](https://datadriven.io/problems/the_long_run)
 
 | | |
 |---|---|
