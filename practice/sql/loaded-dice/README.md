@@ -4,9 +4,15 @@
 
 [SQL · Hard · on DataDriven](https://datadriven.io/problems/loaded_dice)
 
+## How it went
+
 | | |
 |---|---|
 | Solved | 2026-07-20 |
-| Query complexity | O(n log n) |
+| Accepted | on the 3rd submission |
+| Time | 1 min |
+| Hints | none |
+| Query complexity | O(n log n), optimal |
+| Concepts | Range Filtering, Null Defaulting, Sorting Results, Query Basics, Sums & Averages, Window Frames |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
