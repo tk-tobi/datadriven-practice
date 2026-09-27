@@ -4,9 +4,15 @@
 
 [SQL · Hard · on DataDriven](https://datadriven.io/problems/the_path_not_taken)
 
+## How it went
+
 | | |
 |---|---|
 | Solved | 2026-07-19 |
-| Query complexity | O(n log n) (optimal O(n²)) |
+| Accepted | on the first submission |
+| Time | 13 min |
+| Hints | none |
+| Query complexity | O(n log n), the optimum is O(n²) |
+| Concepts | Common Table Expressions, Date vs Timestamp, Query Basics, Self-Join, Correlated Subquery, Scalar Subquery, Timestamp Types, Filtering |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
