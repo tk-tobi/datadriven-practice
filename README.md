@@ -16,6 +16,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Spaces Between](./practice/python/the-spaces-between) | Python | Medium | 2026-09-27 |
 | [Service Alert Frequency](./practice/sql/service-alert-frequency) | SQL | Easy | 2026-09-27 |
 | [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-09-24 |
 | [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-09-23 |
