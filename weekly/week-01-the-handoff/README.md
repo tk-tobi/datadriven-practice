@@ -14,7 +14,7 @@ You're a data engineer migrating away from a CRM your company has used since 201
 | Rank | #4 of 11, top 36% |
 | Points | +40 |
 | Records recovered | 835,179 of 951,089 |
-| Work per record | 0.82x median |
+| Work per record | 0.86x median |
 | Statements | 46 |
 | Scored | 2026-09-21 |
 
