@@ -11,8 +11,8 @@ You're a data engineer at an electric utility. Each half hour, every smart meter
 | | |
 |---|---|
 | Score | 0.9262 |
-| Rank | #2 of 14, top 14% |
-| Points | +150 |
+| Rank | #1 of 14, top 7% |
+| Points | +200 |
 | Records recovered | 853,305 of 900,971 |
 | Work per record | 37x median |
 | Statements | 563 |
