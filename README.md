@@ -10,6 +10,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 
 | Week | Score | Rank | |
 |---|---:|---|---|
+| [Week 3: The Register](./weekly/week-03-the-register) | 0.9262 | #2 of 14 | [brief](https://datadriven.io/community/week-3) |
 | [Week 1: The Handoff](./weekly/week-01-the-handoff) | 0.8154 | #4 of 11 | [brief](https://datadriven.io/community/week-1) |
 
 ## Practice
