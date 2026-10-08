@@ -5,13 +5,11 @@ WITH prev_charges AS (
     product_id,
     total_amount,
     transaction_date,
-    LAG(total_amount) OVER 
-      (PARTITION BY user_id, product_id
-      ORDER BY transaction_date) AS prev_total_amount,
-    LAG(transaction_date) OVER 
-      (PARTITION BY user_id, product_id
-      ORDER BY transaction_date) AS prev_transaction_date
+    LAG(total_amount) OVER w AS prev_total_amount,
+    LAG(transaction_date) OVER w AS prev_transaction_date
   FROM transactions
+  WINDOW w AS (PARTITION BY user_id, product_id
+      ORDER BY transaction_date)
 )
   SELECT 
     transaction_id,
