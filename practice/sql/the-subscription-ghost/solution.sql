@@ -1,8 +1,3 @@
-/*
-accidental recurring charge
-(user, product) ---> PREV_CHARGE
-*/
--- SELECT * FROM transactions LIMIT 5;
 WITH prev_charges AS (
   SELECT
     transaction_id,
@@ -10,9 +5,6 @@ WITH prev_charges AS (
     product_id,
     total_amount,
     transaction_date,
-    LAG(transaction_id) OVER 
-      (PARTITION BY user_id, product_id
-      ORDER BY transaction_date) AS prev_transaction_id,
     LAG(total_amount) OVER 
       (PARTITION BY user_id, product_id
       ORDER BY transaction_date) AS prev_total_amount,
