@@ -170,7 +170,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Spending Velocity](./practice/sql/spending-velocity) | SQL | Medium | 2026-07-17 |
 | [Ghost Products](./practice/sql/ghost-products) | SQL | Medium | 2026-07-17 |
 | [Both Ends of the Pipe](./practice/sql/both-ends-of-the-pipe) | SQL | Medium | 2026-07-17 |
-| [The Budget Line](./practice/sql/the-budget-line) | SQL | Easy | 2026-07-17 |
+| [The Budget Line](./practice/sql/the-budget-line) | SQL | Medium | 2026-07-17 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-07-17 |
 | [First Arrivals](./practice/sql/first-arrivals) | SQL | Medium | 2026-07-16 |
 | [Cache Efficiency](./practice/sql/cache-efficiency) | SQL | Hard | 2026-07-16 |
