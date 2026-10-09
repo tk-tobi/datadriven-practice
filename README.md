@@ -114,7 +114,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Top 10 Batch Jobs](./practice/sql/top-10-batch-jobs) | SQL | Easy | 2026-08-07 |
 | [Spending Range](./practice/sql/spending-range) | SQL | Hard | 2026-08-06 |
 | [The Roads In](./practice/sql/the-roads-in) | SQL | Easy | 2026-08-06 |
-| [Double or Nothing](./practice/sql/double-or-nothing) | SQL | Hard | 2026-08-06 |
+| [Double or Nothing](./practice/sql/double-or-nothing) | SQL | Medium | 2026-08-06 |
 | [The Overlap](./practice/python/the-overlap) | Python | Hard | 2026-08-06 |
 | [The Crowded Hour](./practice/sql/the-crowded-hour) | SQL | Easy | 2026-08-03 |
 | [The Upper Rungs](./practice/sql/the-upper-rungs) | SQL | Easy | 2026-07-31 |
