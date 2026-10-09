@@ -1,12 +1,12 @@
 # sweet_eagle_4177's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
 ## The Weekly
 
-A hidden stream of a million raw records, one handler, graded blind at the freeze.
+1 data engineering challenge a week on hidden production data, graded blind at the freeze.
 
 | Week | Score | Rank | |
 |---|---:|---|---|
@@ -242,6 +242,7 @@ A hidden stream of a million raw records, one handler, graded blind at the freez
 | [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-06-09 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-06-09 |
 | [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-06-09 |
+| [A Number for the Seller](./practice/data_modeling/a-number-for-the-seller) | Data Modeling | Easy | 2026-06-08 |
 | [The Runaway Leader](./practice/python/the-runaway-leader) | Python | Easy | 2026-06-08 |
 | [The Fallback Layer](./practice/python/the-fallback-layer) | Python | Easy | 2026-06-08 |
 | [Char Profile](./practice/python/char-profile) | Python | Medium | 2026-06-08 |
