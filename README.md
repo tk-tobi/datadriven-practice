@@ -82,7 +82,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-08-11 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-08-11 |
 | [The Longest Take](./practice/sql/the-longest-take) | SQL | Easy | 2026-08-11 |
-| [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-08-11 |
+| [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Easy | 2026-08-11 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-08-11 |
 | [Top 2 Busiest API Slots](./practice/sql/top-2-busiest-api-slots) | SQL | Medium | 2026-08-11 |
 | [Servers Returning to Origin](./practice/sql/servers-returning-to-origin) | SQL | Medium | 2026-08-11 |
