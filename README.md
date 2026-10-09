@@ -17,6 +17,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Three Lowest Distinct Cloud Cost Amounts](./practice/sql/three-lowest-distinct-cloud-cost-amounts) | SQL | Easy | 2026-10-09 |
 | [Full Funnel](./practice/sql/full-funnel) | SQL | Hard | 2026-10-09 |
 | [The Subscription Ghost](./practice/sql/the-subscription-ghost) | SQL | Medium | 2026-10-08 |
 | [The Spaces Between](./practice/python/the-spaces-between) | Python | Medium | 2026-09-27 |
