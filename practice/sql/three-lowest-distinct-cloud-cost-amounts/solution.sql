@@ -1,6 +1,5 @@
 SELECT
   DISTINCT amount
 FROM cloud_costs
-WHERE amount IS NOT NULL
-ORDER BY amount
+ORDER BY amount NULLS LAST
 LIMIT 3;
