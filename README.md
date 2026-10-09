@@ -190,6 +190,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Where the Buck Stops](./practice/python/where-the-buck-stops) | Python | Hard | 2026-07-04 |
 | [Power Users by Session Activity](./practice/sql/power-users-by-session-activity) | SQL | Medium | 2026-07-04 |
 | [The Dormant Accounts](./practice/sql/the-dormant-accounts) | SQL | Easy | 2026-07-03 |
+| [One Door Each](./practice/data_modeling/one-door-each) | Data Modeling | Medium | 2026-07-03 |
 | [Above the Fold](./practice/sql/above-the-fold) | SQL | Hard | 2026-07-03 |
 | [Build Success Rate by Trigger](./practice/sql/build-success-rate-by-trigger) | SQL | Medium | 2026-07-03 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-07-03 |
