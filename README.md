@@ -157,7 +157,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Loaded Dice](./practice/sql/loaded-dice) | SQL | Hard | 2026-07-20 |
 | [Smooth Latency](./practice/sql/smooth-latency) | SQL | Medium | 2026-07-19 |
 | [The Path Not Taken](./practice/sql/the-path-not-taken) | SQL | Hard | 2026-07-19 |
-| [Spend and Rank](./practice/sql/spend-and-rank) | SQL | Hard | 2026-07-19 |
+| [Spend and Rank](./practice/sql/spend-and-rank) | SQL | Medium | 2026-07-19 |
 | [Idle Team Members](./practice/sql/idle-team-members) | SQL | Easy | 2026-07-19 |
 | [Where The Rows Go](./practice/sql/where-the-rows-go) | SQL | Easy | 2026-07-19 |
 | [Top Recent Sellers](./practice/sql/top-recent-sellers) | SQL | Easy | 2026-07-19 |
