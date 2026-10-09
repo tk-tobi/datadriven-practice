@@ -2,7 +2,7 @@
 
 *Some rows are over. Some are under. Label every one.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/the_budget_line)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/the_budget_line)
 
 ## How it went
 
