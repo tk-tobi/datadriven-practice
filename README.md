@@ -194,6 +194,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Build Success Rate by Trigger](./practice/sql/build-success-rate-by-trigger) | SQL | Medium | 2026-07-03 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-07-03 |
 | [The Seventh Day](./practice/sql/the-seventh-day) | SQL | Medium | 2026-07-03 |
+| [The Balance Always Reconciles](./practice/data_modeling/the-balance-always-reconciles) | Data Modeling | Easy | 2026-06-29 |
 | [First Light](./practice/sql/first-light) | SQL | Medium | 2026-06-28 |
 | [No Vacancy](./practice/python/no-vacancy) | Python | Hard | 2026-06-27 |
 | [Back to Back](./practice/python/back-to-back) | Python | Medium | 2026-06-27 |
