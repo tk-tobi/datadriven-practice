@@ -2,7 +2,7 @@
 
 *Same shelf, wildly different stickers. Spot the pricing gaps.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/double_or_nothing)
+[SQL · Hard · on DataDriven](https://datadriven.io/problems/double_or_nothing)
 
 ## How it went
 
