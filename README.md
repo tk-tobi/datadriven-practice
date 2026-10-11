@@ -105,7 +105,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Metric Trend by Department](./practice/sql/metric-trend-by-department) | SQL | Easy | 2026-08-07 |
 | [Welcome Wagon](./practice/sql/welcome-wagon) | SQL | Easy | 2026-08-07 |
 | [Average Build Duration by Repo](./practice/sql/average-build-duration-by-repo) | SQL | Easy | 2026-08-07 |
-| [The Vote Tally](./practice/sql/the-vote-tally) | SQL | Hard | 2026-08-07 |
+| [The Vote Tally](./practice/sql/the-vote-tally) | SQL | Easy | 2026-08-07 |
 | [Average API Latency by Year](./practice/sql/average-api-latency-by-year) | SQL | Medium | 2026-08-07 |
 | [Ad Revenue 2026](./practice/sql/ad-revenue-year) | SQL | Easy | 2026-08-07 |
 | [Going Once](./practice/sql/going-once) | SQL | Medium | 2026-08-07 |
