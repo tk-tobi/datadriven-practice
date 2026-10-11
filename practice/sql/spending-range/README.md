@@ -2,7 +2,7 @@
 
 *Between the smallest purchase and the biggest lies the story.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/spending_range)
+[SQL · Hard · on DataDriven](https://datadriven.io/problems/spending_range)
 
 ## How it went
 
