@@ -2,7 +2,7 @@
 
 *Every category earns its place on the board. Find where each one lands.*
 
-[SQL · Hard · on DataDriven](https://datadriven.io/problems/the_standings)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/the_standings)
 
 ## How it went
 
