@@ -2,7 +2,7 @@
 
 *One line. A dozen fields hidden inside.*
 
-[Python · Easy · on DataDriven](https://datadriven.io/problems/parse_log_line)
+[Python · Medium · on DataDriven](https://datadriven.io/problems/parse_log_line)
 
 ## How it went
 
