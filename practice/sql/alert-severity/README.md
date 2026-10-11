@@ -2,7 +2,7 @@
 
 *When the alarms go off, who screams loudest?*
 
-[SQL · Hard · on DataDriven](https://datadriven.io/problems/alert_severity)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/alert_severity)
 
 ## How it went
 
