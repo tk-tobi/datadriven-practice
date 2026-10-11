@@ -2,7 +2,7 @@
 
 *How often does each service trigger alerts?*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/service_alert_frequency)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/service_alert_frequency)
 
 ## How it went
 
