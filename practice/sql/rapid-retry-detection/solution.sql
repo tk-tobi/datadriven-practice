@@ -11,9 +11,7 @@ WITH failed_calls AS (
     status,
     call_time
   FROM api_calls
-  WHERE user_id IS NOT NULL
-    AND status LIKE '5%%'
-  ORDER BY user_id
+  WHERE status BETWEEN 500 AND 599
 ),
 success_calls AS(
   SELECT
@@ -23,7 +21,7 @@ success_calls AS(
     call_time
   FROM api_calls
   WHERE user_id IS NOT NULL
-    AND status LIKE '2%%'
+    AND err_msg IS NULL
   ORDER BY user_id
 ),
 later_calls AS (
@@ -36,7 +34,7 @@ later_calls AS (
   JOIN success_calls AS sc
     ON fc.user_id = sc.user_id
     AND fc.endpoint = sc.endpoint
-    AND fc.call_time <= sc.call_time
+    AND fc.call_time < sc.call_time
     AND fc.call_time >= (sc.call_time - INTERVAL '5 minute')
 )
-SELECT * FROM later_calls LIMIT 10;
+SELECT * FROM later_calls;
