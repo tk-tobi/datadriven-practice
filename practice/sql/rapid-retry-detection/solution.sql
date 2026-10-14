@@ -39,4 +39,4 @@ later_calls AS (
     AND fc.call_time <= sc.call_time
     AND fc.call_time >= (sc.call_time - INTERVAL '5 minute')
 )
-SELECT * FROM later_calls LIMIT 10;
+SELECT * FROM later_calls;
