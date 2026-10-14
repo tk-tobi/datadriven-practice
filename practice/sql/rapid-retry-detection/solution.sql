@@ -7,7 +7,7 @@ WITH failed_calls AS (
 success_calls AS (
     SELECT user_id, endpoint, call_time
     FROM api_calls
-    WHERE err_msg IS NULL
+    WHERE status BETWEEN 200 AND 299
     ORDER BY user_id
 )
 SELECT 
