@@ -12,6 +12,7 @@ WITH failed_calls AS (
     call_time
   FROM api_calls
   WHERE status BETWEEN 500 AND 599
+  AND user_id IS NOT NULL
 ),
 success_calls AS(
   SELECT
