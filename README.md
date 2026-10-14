@@ -22,7 +22,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Full Funnel](./practice/sql/full-funnel) | SQL | Hard | 2026-10-09 |
 | [The Subscription Ghost](./practice/sql/the-subscription-ghost) | SQL | Medium | 2026-10-08 |
 | [The Spaces Between](./practice/python/the-spaces-between) | Python | Medium | 2026-09-27 |
-| [Service Alert Frequency](./practice/sql/service-alert-frequency) | SQL | Medium | 2026-09-27 |
+| [Service Alert Frequency](./practice/sql/service-alert-frequency) | SQL | Easy | 2026-09-27 |
 | [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-09-24 |
 | [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-09-23 |
 | [The Weight of Words](./practice/sql/the-weight-of-words) | SQL | Easy | 2026-09-21 |
