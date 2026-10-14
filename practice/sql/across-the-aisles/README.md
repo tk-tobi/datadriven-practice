@@ -2,7 +2,7 @@
 
 *The best customers never stay in one aisle.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/across_the_aisles)
+[SQL · Hard · on DataDriven](https://datadriven.io/problems/across_the_aisles)
 
 ## How it went
 
