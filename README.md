@@ -165,7 +165,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Top Recent Sellers](./practice/sql/top-recent-sellers) | SQL | Easy | 2026-07-19 |
 | [Cheapest CDN Route](./practice/sql/cheapest-cdn-route) | SQL | Easy | 2026-07-19 |
 | [Response Buckets](./practice/sql/response-buckets) | SQL | Medium | 2026-07-19 |
-| [Deploy Velocity](./practice/sql/deploy-velocity) | SQL | Medium | 2026-07-19 |
+| [Deploy Velocity](./practice/sql/deploy-velocity) | SQL | Hard | 2026-07-19 |
 | [The Company You Keep](./practice/sql/the-company-you-keep) | SQL | Medium | 2026-07-19 |
 | [Love and Loathing](./practice/sql/love-and-loathing) | SQL | Hard | 2026-07-19 |
 | [Chain of Command](./practice/sql/chain-of-command) | SQL | Hard | 2026-07-18 |
