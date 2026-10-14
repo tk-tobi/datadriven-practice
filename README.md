@@ -140,7 +140,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Even the Silent Ones](./practice/sql/even-the-silent-ones) | SQL | Medium | 2026-07-23 |
 | [The Roster](./practice/sql/the-roster) | SQL | Easy | 2026-07-23 |
 | [Market Share](./practice/sql/market-share) | SQL | Hard | 2026-07-23 |
-| [The Standings](./practice/sql/the-standings) | SQL | Medium | 2026-07-23 |
+| [The Standings](./practice/sql/the-standings) | SQL | Hard | 2026-07-23 |
 | [Team Cost Allocation Comparison](./practice/sql/team-cost-allocation-comparison) | SQL | Hard | 2026-07-23 |
 | [7-Day Onboarding Conversion](./practice/sql/7-day-onboarding-conversion) | SQL | Hard | 2026-07-22 |
 | [Active User Penetration Rate](./practice/sql/active-user-penetration-rate) | SQL | Hard | 2026-07-22 |
