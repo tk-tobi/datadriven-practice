@@ -12,7 +12,7 @@
 | Accepted | on the first submission |
 | Time | 20 min |
 | Hints | none |
-| Query complexity | O(n), optimal |
+| Query complexity | O(n log n), the optimum is O(n) |
 | Concepts | Inequality Joins, Inner Joins, Null Handling, Query Basics, Self-Join, Filtering |
 
 The accepted solution is in [`solution.sql`](./solution.sql).
