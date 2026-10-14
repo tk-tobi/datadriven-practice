@@ -2,7 +2,7 @@
 
 *One product, every day it sold, and the money it brought in.*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/the_vote_tally)
+[SQL · Hard · on DataDriven](https://datadriven.io/problems/the_vote_tally)
 
 ## How it went
 
