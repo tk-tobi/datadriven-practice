@@ -132,7 +132,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Kings for a Day](./practice/sql/kings-for-a-day) | SQL | Medium | 2026-07-30 |
 | [Nth Highest Salary Per Department](./practice/sql/nth-highest-salary-per-department) | SQL | Medium | 2026-07-30 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Medium | 2026-07-30 |
-| [Alert Severity](./practice/sql/alert-severity) | SQL | Medium | 2026-07-30 |
+| [Alert Severity](./practice/sql/alert-severity) | SQL | Hard | 2026-07-30 |
 | [Cost Efficiency Variance](./practice/sql/cost-efficiency-variance) | SQL | Hard | 2026-07-28 |
 | [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-07-27 |
 | [Tiers of Want](./practice/sql/tiers-of-want) | SQL | Hard | 2026-07-25 |
