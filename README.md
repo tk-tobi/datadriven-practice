@@ -252,7 +252,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [The Runaway Leader](./practice/python/the-runaway-leader) | Python | Easy | 2026-06-08 |
 | [The Fallback Layer](./practice/python/the-fallback-layer) | Python | Easy | 2026-06-08 |
 | [Char Profile](./practice/python/char-profile) | Python | Medium | 2026-06-08 |
-| [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-06-08 |
+| [Active Campaigns](./practice/sql/active-campaigns) | SQL | Medium | 2026-06-08 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-06-08 |
 | [Average Node CPU by Region](./practice/sql/average-node-cpu-by-region) | SQL | Easy | 2026-05-28 |
 | [Where the Line Breaks](./practice/python/where-the-line-breaks) | Python | Easy | 2026-05-28 |
