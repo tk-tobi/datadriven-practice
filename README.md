@@ -27,6 +27,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-09-24 |
 | [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-09-23 |
 | [The Weight of Words](./practice/sql/the-weight-of-words) | SQL | Easy | 2026-09-21 |
+| [The Weight of Words](./practice/spark/the-weight-of-words) | Spark | Easy | 2026-09-21 |
 | [Consecutive Cost Growth Periods](./practice/sql/consecutive-cost-growth-periods) | SQL | Hard | 2026-09-21 |
 | [Where the Minutes Go](./practice/sql/where-the-minutes-go) | SQL | Hard | 2026-09-20 |
 | [Top Endpoint by Power Users](./practice/sql/top-endpoint-by-power-users) | SQL | Hard | 2026-09-20 |
