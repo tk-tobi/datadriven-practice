@@ -244,7 +244,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Find Mode](./practice/python/find-mode) | Python | Medium | 2026-06-09 |
 | [Above Average](./practice/sql/above-average) | SQL | Easy | 2026-06-09 |
 | [Average Sessions Per User](./practice/sql/average-sessions-per-user) | SQL | Hard | 2026-06-09 |
-| [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Easy | 2026-06-09 |
+| [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-06-09 |
 | [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-06-09 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-06-09 |
 | [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-06-09 |
