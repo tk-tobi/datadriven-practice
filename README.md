@@ -221,7 +221,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [The Row Count Surprise](./practice/sql/the-row-count-surprise) | SQL | Easy | 2026-06-15 |
 | [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-06-15 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-06-15 |
-| [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Medium | 2026-06-15 |
+| [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-06-15 |
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-06-15 |
 | [The Rolling Peak](./practice/python/the-rolling-peak) | Python | Medium | 2026-06-14 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-06-12 |
