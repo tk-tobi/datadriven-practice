@@ -84,7 +84,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 | [Back From the Brink](./practice/sql/back-from-the-brink) | SQL | Hard | 2026-08-12 |
 | [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-08-11 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-08-11 |
-| [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Easy | 2026-08-11 |
+| [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-08-11 |
 | [The Longest Take](./practice/sql/the-longest-take) | SQL | Easy | 2026-08-11 |
 | [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-08-11 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-08-11 |
