@@ -1,6 +1,6 @@
 # Consecutive Cost Growth Periods
 
-*Five straight months of spending increases.*
+*5 straight months of spending increases.*
 
 [SQL · Hard · on DataDriven](https://datadriven.io/problems/consecutive_cost_growth_periods)
 
