@@ -18,6 +18,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Every Door They Opened](./practice/sql/every-door-they-opened) | SQL | Easy | 2026-11-08 |
 | [Break Through](./practice/sql/break-through) | SQL | Medium | 2026-11-08 |
 | [Rapid Retry Detection](./practice/sql/rapid-retry-detection) | SQL | Medium | 2026-10-14 |
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-10-11 |
