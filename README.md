@@ -10,6 +10,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Week | Score | Rank | |
 |---|---:|---|---|
+| [Week 8: The Auction](./weekly/week-08-the-auction) | 0.9703 | #2 of 8 | [brief](https://datadriven.io/community/week-8) |
 | [Week 7: The Timetable](./weekly/week-07-the-timetable) | 0.9446 | #3 of 9 | [brief](https://datadriven.io/community/week-7) |
 | [Week 3: The Register](./weekly/week-03-the-register) | 0.9262 | #1 of 14 | [brief](https://datadriven.io/community/week-3) |
 | [Week 1: The Handoff](./weekly/week-01-the-handoff) | 0.8154 | #4 of 11 | [brief](https://datadriven.io/community/week-1) |
