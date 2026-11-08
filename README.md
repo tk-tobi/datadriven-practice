@@ -18,6 +18,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Break Through](./practice/sql/break-through) | SQL | Medium | 2026-11-08 |
 | [Rapid Retry Detection](./practice/sql/rapid-retry-detection) | SQL | Medium | 2026-10-14 |
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-10-11 |
 | [Three Lowest Distinct Cloud Cost Amounts](./practice/sql/three-lowest-distinct-cloud-cost-amounts) | SQL | Easy | 2026-10-09 |
