@@ -13,7 +13,7 @@
 | Accepted | on the first submission |
 | Time | 4 min |
 | Hints | none |
-| Query complexity | O(n), the optimum is O(n log n) |
+| Query complexity | O(n log n), optimal |
 | Concepts | Column Expressions, DataFrame Basics, Keyed Deduplication, Filtering, Intermediate DataFrames, Set Membership, Case Conversion |
 
 The accepted solution is in [`solution.py`](./solution.py).
