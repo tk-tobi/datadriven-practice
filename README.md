@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-11-10 |
 | [The Blast Radius](./practice/sql/the-blast-radius) | SQL | Medium | 2026-11-10 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-11-10 |
 | [The Stable and the Restless](./practice/sql/the-stable-and-the-restless) | SQL | Easy | 2026-11-10 |
