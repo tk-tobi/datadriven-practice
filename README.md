@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top 10 CPU-Heavy Nodes](./practice/spark/top-10-cpu-heavy-nodes) | Spark | Medium | 2026-11-10 |
 | [Largest Single Cloud Cost](./practice/spark/largest-single-cloud-cost) | Spark | Medium | 2026-11-10 |
 | [High-Value Electronics](./practice/spark/high-value-electronics) | Spark | Easy | 2026-11-10 |
 | [Low Uptime Services](./practice/spark/low-uptime-services) | Spark | Easy | 2026-11-10 |
