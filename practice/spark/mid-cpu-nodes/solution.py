@@ -4,5 +4,5 @@ nodes = spark.table("infra_nodes")
 
 result = (
   nodes
-    .filter("cpu_pct between 40 and 80")
+    .filter("cpu_pct BETWEEN 40 AND 80")
 )
