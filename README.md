@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Content Duration Snapshot](./practice/spark/content-duration-snapshot) | Spark | Easy | 2026-11-10 |
 | [Content Published in 2026](./practice/spark/content-published-in-year) | Spark | Easy | 2026-11-10 |
 | [Disabled Feature Flags](./practice/spark/disabled-feature-flags) | Spark | Easy | 2026-11-10 |
 | [Targeted Ad Campaigns](./practice/spark/targeted-ad-campaigns) | Spark | Easy | 2026-11-10 |
