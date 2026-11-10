@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Token Census](./practice/sql/the-token-census) | SQL | Easy | 2026-11-10 |
 | [Regional Status](./practice/sql/regional-status) | SQL | Easy | 2026-11-10 |
 | [Find Deploy Authors](./practice/spark/find-deploy-authors) | Spark | Easy | 2026-11-09 |
 | [Daily and Weekly Active Users](./practice/sql/daily-and-weekly-active-users) | SQL | Easy | 2026-11-09 |
