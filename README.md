@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Slow Failures](./practice/spark/slow-failures) | Spark | Easy | 2026-11-10 |
 | [Top Performing Models](./practice/spark/top-performing-models) | Spark | Easy | 2026-11-10 |
 | [Roll Call](./practice/spark/roll-call) | Spark | Easy | 2026-11-10 |
 | [Welcome Wagon](./practice/spark/welcome-wagon) | Spark | Easy | 2026-11-10 |
