@@ -6,6 +6,6 @@ result = (
   pipes
     .orderBy(F.col("dur_secs").desc())
     .select("pipe_name")
-    .offset(1)
-    .show(1)
+    # .offset(1)
+    .limit(1)
 )
