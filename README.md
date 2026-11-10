@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Ship It or Skip It](./practice/spark/ship-it-or-skip-it) | Spark | Easy | 2026-11-10 |
 | [User Devices](./practice/spark/user-devices) | Spark | Medium | 2026-11-10 |
 | [The Conversion Story](./practice/sql/the-conversion-story) | SQL | Medium | 2026-11-10 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-11-10 |
