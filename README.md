@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Tiebreaker](./practice/spark/the-tiebreaker) | Spark | Easy | 2026-11-10 |
 | [Low-Byte CDN Responses](./practice/spark/low-byte-cdn-responses) | Spark | Easy | 2026-11-10 |
 | [Auth Service Health Checks](./practice/spark/auth-service-health-checks) | Spark | Easy | 2026-11-10 |
 | [Mid-CPU Nodes](./practice/spark/mid-cpu-nodes) | Spark | Easy | 2026-11-10 |
