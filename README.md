@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High Volume Batch Jobs](./practice/spark/high-volume-batch-jobs) | Spark | Easy | 2026-11-10 |
 | [Longest Running Pipeline](./practice/spark/longest-running-pipeline) | Spark | Medium | 2026-11-10 |
 | [Low Throughput Pipelines](./practice/spark/low-throughput-pipelines) | Spark | Easy | 2026-11-10 |
 | [Top 10 CPU-Heavy Nodes](./practice/spark/top-10-cpu-heavy-nodes) | Spark | Medium | 2026-11-10 |
