@@ -12,5 +12,5 @@ users = spark.table("users")
 results = (
   users
     .filter("signup_date >= '2025-01-01' and signup_date < '2026-01-01'")
-    .agg(F.count("*"))
+    .agg(F.count("*").alias("signup_count"))
   )
