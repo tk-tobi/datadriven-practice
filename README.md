@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Conversion Story](./practice/sql/the-conversion-story) | SQL | Medium | 2026-11-10 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-11-10 |
 | [Average Compensation by Department and Status](./practice/sql/average-compensation-by-department-and-status) | SQL | Medium | 2026-11-10 |
 | [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-11-10 |
