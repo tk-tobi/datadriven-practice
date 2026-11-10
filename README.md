@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Stable and the Restless](./practice/sql/the-stable-and-the-restless) | SQL | Easy | 2026-11-10 |
 | [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-11-10 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-10 |
 | [The Token Census](./practice/sql/the-token-census) | SQL | Easy | 2026-11-10 |
