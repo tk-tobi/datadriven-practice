@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Auth Service Health Checks](./practice/spark/auth-service-health-checks) | Spark | Easy | 2026-11-10 |
 | [Mid-CPU Nodes](./practice/spark/mid-cpu-nodes) | Spark | Easy | 2026-11-10 |
 | [Average Search Endpoint Latency](./practice/spark/average-search-endpoint-latency) | Spark | Easy | 2026-11-10 |
 | [Content Duration Snapshot](./practice/spark/content-duration-snapshot) | Spark | Easy | 2026-11-10 |
