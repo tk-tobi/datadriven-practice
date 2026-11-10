@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Elite](./practice/spark/the-elite) | Spark | Easy | 2026-11-10 |
 | [Compute Nodes in Key Regions](./practice/spark/compute-nodes-in-key-regions) | Spark | Easy | 2026-11-10 |
 | [US-East KV Store Entries](./practice/spark/us-east-kv-store-entries) | Spark | Easy | 2026-11-10 |
 | [High Volume Batch Jobs](./practice/spark/high-volume-batch-jobs) | Spark | Easy | 2026-11-10 |
