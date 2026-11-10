@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High-Value Electronics](./practice/spark/high-value-electronics) | Spark | Easy | 2026-11-10 |
 | [Low Uptime Services](./practice/spark/low-uptime-services) | Spark | Easy | 2026-11-10 |
 | [Slow Failures](./practice/spark/slow-failures) | Spark | Easy | 2026-11-10 |
 | [Top Performing Models](./practice/spark/top-performing-models) | Spark | Easy | 2026-11-10 |
