@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Corner to Corner](./practice/python/corner-to-corner) | Python | Medium | 2026-11-11 |
 | [Record Filter](./practice/python/record-filter) | Python | Easy | 2026-11-11 |
 | [Carrying Forward](./practice/python/carrying-forward) | Python | Medium | 2026-11-11 |
 | [Unique Values](./practice/python/unique-values) | Python | Easy | 2026-11-11 |
