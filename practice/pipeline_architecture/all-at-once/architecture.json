@@ -1,0 +1,86 @@
+{
+  "components": [
+    {
+      "id": "s_1794369296523_0",
+      "name": "MongoDB",
+      "type": "source",
+      "position": {
+        "x": 94,
+        "y": 98
+      }
+    },
+    {
+      "id": "s_1794369330587_1",
+      "name": "Partioned Read and Transformation",
+      "type": "transform",
+      "retry": {
+        "count": 3
+      },
+      "idempotency": "upsert",
+      "position": {
+        "x": 99,
+        "y": 98
+      }
+    },
+    {
+      "id": "s_1794369390504_3",
+      "name": "quality_gate",
+      "type": "quality_gate",
+      "on_error": "dlq",
+      "position": {
+        "x": 104,
+        "y": 97
+      }
+    },
+    {
+      "id": "s_1794369408303_5",
+      "name": "Redshift",
+      "type": "storage",
+      "position": {
+        "x": 112,
+        "y": 96
+      }
+    },
+    {
+      "id": "s_1794369475095_7",
+      "name": "source",
+      "type": "source",
+      "position": {
+        "x": 168,
+        "y": 186
+      }
+    },
+    {
+      "id": "s_1794369553592_9",
+      "name": "Staging Area",
+      "type": "storage",
+      "position": {
+        "x": 108,
+        "y": 97
+      }
+    }
+  ],
+  "connections": [
+    {
+      "from": "s_1794369296523_0",
+      "to": "s_1794369330587_1",
+      "type": "data_flow"
+    },
+    {
+      "from": "s_1794369330587_1",
+      "to": "s_1794369390504_3",
+      "type": "data_flow"
+    },
+    {
+      "from": "s_1794369390504_3",
+      "to": "s_1794369553592_9",
+      "type": "data_flow"
+    },
+    {
+      "from": "s_1794369553592_9",
+      "to": "s_1794369408303_5",
+      "type": "data_flow"
+    }
+  ],
+  "zones": []
+}
