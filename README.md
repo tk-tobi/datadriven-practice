@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The First Door](./practice/spark/the-first-door) | Spark | Medium | 2026-11-11 |
 | [The First Door](./practice/sql/the-first-door) | SQL | Medium | 2026-11-11 |
 | [Monthly Running Total](./practice/spark/monthly-running-total) | Spark | Easy | 2026-11-11 |
 | [Feature Flag Engagement Impact](./practice/spark/feature-flag-engagement-impact) | Spark | Hard | 2026-11-11 |
