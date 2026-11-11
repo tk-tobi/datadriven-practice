@@ -4,7 +4,9 @@ def longest_prefix(patterns):
     stripped_char = set(char for char in chars if char != '?')
     if len(stripped_char) == 0:
       prefix += '?'
-    if len(stripped_char) == 1:
+    elif len(stripped_char) == 1:
       prefix += stripped_char.pop()
+    else:
+      break
     
   return prefix
