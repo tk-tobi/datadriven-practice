@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Unique Values](./practice/python/unique-values) | Python | Easy | 2026-11-11 |
 | [The Ad Ledger](./practice/spark/the-ad-ledger) | Spark | Easy | 2026-11-10 |
 | [The Tiebreaker](./practice/spark/the-tiebreaker) | Spark | Easy | 2026-11-10 |
 | [Low-Byte CDN Responses](./practice/spark/low-byte-cdn-responses) | Spark | Easy | 2026-11-10 |
