@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Speed and Substance](./practice/sql/speed-and-substance) | SQL | Hard | 2026-11-11 |
 | [Non-Trivial Fatal Errors](./practice/sql/non-trivial-fatal-errors) | SQL | Medium | 2026-11-11 |
 | [The Shape of the Year](./practice/sql/the-shape-of-the-year) | SQL | Medium | 2026-11-11 |
 | [Repeat Offenders of the Search Bar](./practice/spark/repeat-offenders-of-the-search-bar) | Spark | Easy | 2026-11-11 |
