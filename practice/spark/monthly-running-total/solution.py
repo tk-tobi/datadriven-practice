@@ -14,9 +14,10 @@ result = (
   transactions
     .filter(F.col("product_id").isNotNull())
     .groupBy("product_id",
-      F.date_format(F.col("transaction_date"), "yyyy-MM").alias("month"))
+      F.substring(F.col("transaction_date"), 1, 7).alias("month"))
     .agg(F.sum("total_amount").alias("monthly_total"))
     .withColumn("cumulative_total", F.sum("monthly_total").over(window_spec))
+    .orderBy("product_id", "month")
 )
 
 # transactions.show(8)
