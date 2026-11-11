@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Steady Few](./practice/spark/the-steady-few) | Spark | Medium | 2026-11-11 |
 | [The Steady Few](./practice/sql/the-steady-few) | SQL | Medium | 2026-11-11 |
 | [The First Door](./practice/spark/the-first-door) | Spark | Medium | 2026-11-11 |
 | [The First Door](./practice/sql/the-first-door) | SQL | Medium | 2026-11-11 |
