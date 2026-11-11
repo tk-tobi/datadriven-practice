@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Feature Flag Engagement Impact](./practice/spark/feature-flag-engagement-impact) | Spark | Hard | 2026-11-11 |
 | [Session Page View Distance](./practice/sql/session-page-view-distance) | SQL | Hard | 2026-11-11 |
 | [All at Once](./practice/pipeline_architecture/all-at-once) | Pipeline Architecture | Medium | 2026-11-11 |
 | [Where the Numbers Settle](./practice/python/where-the-numbers-settle) | Python | Easy | 2026-11-11 |
