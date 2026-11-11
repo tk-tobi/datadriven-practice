@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where the Numbers Settle](./practice/python/where-the-numbers-settle) | Python | Easy | 2026-11-11 |
 | [Where They Part](./practice/python/where-they-part) | Python | Hard | 2026-11-11 |
 | [Corner to Corner](./practice/python/corner-to-corner) | Python | Medium | 2026-11-11 |
 | [Record Filter](./practice/python/record-filter) | Python | Easy | 2026-11-11 |
