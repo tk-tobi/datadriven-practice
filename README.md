@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Record Filter](./practice/python/record-filter) | Python | Easy | 2026-11-11 |
 | [Carrying Forward](./practice/python/carrying-forward) | Python | Medium | 2026-11-11 |
 | [Unique Values](./practice/python/unique-values) | Python | Easy | 2026-11-11 |
 | [The Ad Ledger](./practice/spark/the-ad-ledger) | Spark | Easy | 2026-11-10 |
