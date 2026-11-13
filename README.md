@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/tk-tobi), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Completion Rate](./practice/spark/completion-rate) | Spark | Medium | 2026-11-13 |
 | [Proof of Presence](./practice/spark/proof-of-presence) | Spark | Medium | 2026-11-13 |
 | [Content Types by Creator](./practice/spark/content-types-by-creator) | Spark | Easy | 2026-11-13 |
 | [The Apprentices Still in the Forge](./practice/spark/the-apprentices-still-in-the-forge) | Spark | Easy | 2026-11-13 |
