@@ -1,6 +1,6 @@
-# sweet_eagle_4177's data engineering practice
+# tk-tobi's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/tk-tobi), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Proof of Presence](./practice/spark/proof-of-presence) | Spark | Medium | 2026-11-13 |
 | [Content Types by Creator](./practice/spark/content-types-by-creator) | Spark | Easy | 2026-11-13 |
 | [The Apprentices Still in the Forge](./practice/spark/the-apprentices-still-in-the-forge) | Spark | Easy | 2026-11-13 |
 | [Timeout Status Records](./practice/spark/timeout-status-records) | Spark | Easy | 2026-11-13 |
