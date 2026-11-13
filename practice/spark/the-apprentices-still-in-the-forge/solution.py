@@ -10,8 +10,16 @@ models = spark.table("ml_models")
 #     .agg(F.count("*").alias("high_accuracy_deployed_models"))
 # )
 
+# result = (
+#   models
+#     .filter((F.col("accuracy") >= 0.9) & (F.col("status") in ['deployed', 'Deployed']))
+#     .agg(F.countDistinct("mdl_name").alias("high_accuracy_deployed_models"))
+# )
 result = (
   models
-    .filter((F.col("accuracy") >= 0.9) & (F.col("status") in ['deployed', 'Deployed']))
-    .agg(F.countDistinct("mdl_name").alias("high_accuracy_deployed_models"))
+  .filter(
+    (F.lower(F.col("status")) == "deployed")
+    & (F.col("accuracy") >= 0.9)
+  )
+  .agg(F.countDistinct("mdl_name").alias("high_accuracy_deployed_models"))
 )
