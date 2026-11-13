@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Nodes in Target Regions](./practice/spark/nodes-in-target-regions) | Spark | Easy | 2026-11-13 |
 | [Low Latency API Calls](./practice/spark/low-latency-api-calls) | Spark | Easy | 2026-11-13 |
 | [Unused Read Tokens](./practice/spark/unused-read-tokens) | Spark | Easy | 2026-11-13 |
 | [The Single Bit](./practice/python/the-single-bit) | Python | Easy | 2026-11-11 |
