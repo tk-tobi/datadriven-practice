@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sweet_eagle_4177), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Apprentices Still in the Forge](./practice/spark/the-apprentices-still-in-the-forge) | Spark | Easy | 2026-11-13 |
 | [Timeout Status Records](./practice/spark/timeout-status-records) | Spark | Easy | 2026-11-13 |
 | [Nodes in Target Regions](./practice/spark/nodes-in-target-regions) | Spark | Easy | 2026-11-13 |
 | [Low Latency API Calls](./practice/spark/low-latency-api-calls) | Spark | Easy | 2026-11-13 |
