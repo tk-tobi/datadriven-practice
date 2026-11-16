@@ -19,6 +19,7 @@ Scored work from [DataDriven](https://datadriven.io/u/tk-tobi), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Shape of a User](./practice/spark/the-shape-of-a-user) | Spark | Medium | 2026-11-16 |
 | [Slow Production Deploys](./practice/spark/slow-production-deploys) | Spark | Easy | 2026-11-15 |
 | [Completion Rate](./practice/spark/completion-rate) | Spark | Medium | 2026-11-13 |
 | [Proof of Presence](./practice/spark/proof-of-presence) | Spark | Medium | 2026-11-13 |
