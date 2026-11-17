@@ -1,6 +1,6 @@
 # Two Sides of the Ledger
 
-*Two cost tables, one region. Which way does the balance tip?*
+*2 cost tables, one region. Which way does the balance tip?*
 
 [SQL · Hard · on DataDriven](https://datadriven.io/problems/two_sides_of_the_ledger)
 
