@@ -260,7 +260,7 @@ Scored work from [DataDriven](https://datadriven.io/u/tk-tobi), committed here a
 | [Retried Failed API Calls](./practice/sql/retried-failed-api-calls) | SQL | Medium | 2026-07-12 |
 | [Spending by Account Status](./practice/sql/spending-by-account-status) | SQL | Medium | 2026-07-04 |
 | [Double Vision](./practice/sql/double-vision) | SQL | Easy | 2026-07-04 |
-| [Long Messages](./practice/sql/long-messages) | SQL | Hard | 2026-07-04 |
+| [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-07-04 |
 | [Against the Clock](./practice/sql/against-the-clock) | SQL | Easy | 2026-07-04 |
 | [The Unbroken Line](./practice/python/the-unbroken-line) | Python | Medium | 2026-07-04 |
 | [Time Served](./practice/sql/time-served) | SQL | Hard | 2026-07-04 |
