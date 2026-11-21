@@ -299,7 +299,7 @@ Scored work from [DataDriven](https://datadriven.io/u/tk-tobi), committed here a
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-06-15 |
 | [The Rolling Peak](./practice/python/the-rolling-peak) | Python | Medium | 2026-06-14 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-06-12 |
-| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-06-12 |
+| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Easy | 2026-06-12 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-06-12 |
 | [Annual Cloud Spend](./practice/sql/annual-cloud-spend) | SQL | Easy | 2026-06-12 |
 | [Turned Away](./practice/sql/turned-away) | SQL | Medium | 2026-06-12 |
