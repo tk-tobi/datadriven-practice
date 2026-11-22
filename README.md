@@ -256,7 +256,7 @@ Scored work from [DataDriven](https://datadriven.io/u/tk-tobi), committed here a
 | [The Cloud Bill](./practice/sql/the-cloud-bill) | SQL | Medium | 2026-07-15 |
 | [Beyond the Signup](./practice/sql/beyond-the-signup) | SQL | Medium | 2026-07-15 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-07-15 |
-| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Medium | 2026-07-15 |
+| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-07-15 |
 | [Retried Failed API Calls](./practice/sql/retried-failed-api-calls) | SQL | Medium | 2026-07-12 |
 | [Spending by Account Status](./practice/sql/spending-by-account-status) | SQL | Medium | 2026-07-04 |
 | [Double Vision](./practice/sql/double-vision) | SQL | Easy | 2026-07-04 |
