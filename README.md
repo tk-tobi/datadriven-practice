@@ -201,7 +201,7 @@ Scored work from [DataDriven](https://datadriven.io/u/tk-tobi), committed here a
 | [Then and Now](./practice/sql/then-and-now) | SQL | Hard | 2026-07-30 |
 | [Below the Peaks](./practice/sql/below-the-peaks) | SQL | Hard | 2026-07-30 |
 | [Top Campaign by User Revenue](./practice/sql/top-campaign-by-user-revenue) | SQL | Medium | 2026-07-30 |
-| [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Hard | 2026-07-30 |
+| [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Easy | 2026-07-30 |
 | [First Interaction Credit](./practice/sql/first-interaction-credit) | SQL | Hard | 2026-07-30 |
 | [The Final Sale](./practice/sql/the-final-sale) | SQL | Medium | 2026-07-30 |
 | [Keep Most Recent Record](./practice/sql/keep-most-recent-record) | SQL | Medium | 2026-07-30 |
