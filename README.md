@@ -93,7 +93,7 @@ Scored work from [DataDriven](https://datadriven.io/u/tk-tobi), committed here a
 | [Every Door They Opened](./practice/sql/every-door-they-opened) | SQL | Easy | 2026-11-08 |
 | [Break Through](./practice/sql/break-through) | SQL | Medium | 2026-11-08 |
 | [Rapid Retry Detection](./practice/sql/rapid-retry-detection) | SQL | Medium | 2026-10-14 |
-| [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-10-11 |
+| [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Medium | 2026-10-11 |
 | [Three Lowest Distinct Cloud Cost Amounts](./practice/sql/three-lowest-distinct-cloud-cost-amounts) | SQL | Easy | 2026-10-09 |
 | [Full Funnel](./practice/sql/full-funnel) | SQL | Hard | 2026-10-09 |
 | [The Subscription Ghost](./practice/sql/the-subscription-ghost) | SQL | Medium | 2026-10-08 |
