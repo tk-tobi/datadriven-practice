@@ -2,7 +2,7 @@
 
 *Keep it fresh, keep it unique.*
 
-[Python · Medium · on DataDriven](https://datadriven.io/problems/the_window_cleaner)
+[Python · Easy · on DataDriven](https://datadriven.io/problems/the_window_cleaner)
 
 ## How it went
 
